@@ -1,9 +1,9 @@
 {
   "name": "justinpmoore",
-  "description": "Build a personal website, blog, or portfolio with Astro.",
+  "description": "CV and Research",
   "private": true,
   "cloudflare": {
-    "label": "Astro Framework Starter",
+    "label": "JustinPewittMoore Website",
     "products": [
       "Workers"
     ],

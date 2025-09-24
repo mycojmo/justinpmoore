@@ -1,7 +1,7 @@
 /*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
+  The CSS in this style tag is based off of Bear research's default CSS.
+  https://github.com/HermanMartinus/bearresearch/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/research/default.css
+  License MIT: https://github.com/HermanMartinus/bearresearch/blob/master/LICENSE.md
  */
 
 :root {
@@ -60,19 +60,19 @@ h6 {
   line-height: 1.2;
 }
 h1 {
-  font-size: 3.052em;
+  font-size: 2em;
 }
 h2 {
-  font-size: 2.441em;
+  font-size: 1.75em;
 }
 h3 {
-  font-size: 1.953em;
+  font-size: 1.4em;
 }
 h4 {
-  font-size: 1.563em;
+  font-size: 1.1em;
 }
 h5 {
-  font-size: 1.25em;
+  font-size: 0.9em;
 }
 strong,
 b {
