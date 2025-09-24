@@ -4,18 +4,19 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import MarkdownContent from '../../public/v2025-09-04.md';
+import '../styles/resume.css';
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<link rel="stylesheet" href="/src/styles/resume.css" />
 		<script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
 	</head>
 	<body>
 		<Header />
 		<main>
+			<p style="text-align: center; margin-bottom: 1rem;"><a href="/jmo-v2025-09-04.pdf" target="_blank" rel="noopener">View resume as a PDF</a></p>
 			<div class="resume-frame">
 				<div class="document-container">
 					<div class="document-content">
